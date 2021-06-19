@@ -29,7 +29,7 @@
     "grunt-contrib-watch": "^0.6.1",
     "grunt-mocha-test": "^0.12.7",
     "istanbul": "^0.3.17",
-    "mocha": "^2.2.5"
+    "mocha": "^9.0.1"
   },
   "dependencies": {
     "stringmap": "^0.2.2"
